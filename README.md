@@ -1,16 +1,11 @@
-### Hi there 👋
-
-<!--
-**devayanidindaBSA/devayanidindabsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#Hi there 👋
+- 🔭 I’m currently working on PT Bimasakti Alterra (an Information Technologies Company)
+- 🌱 I’m currently learning learning website development w/ vue.js
+- 👯 I’m looking to collaborate on collaborate on mobile, website or database service projects
+- 🤔 I’m looking for help with clean code and clean architecture of development
+- 💬 Ask me about flutter development or database technologies
+- 📫 My another github account
+  - @devayanidinda (1st personal github)
+  - @devayanidindaaa (2nd personal github)
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: love Thai song and Thai drama
