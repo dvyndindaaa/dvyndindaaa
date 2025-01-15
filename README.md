@@ -1,14 +1,14 @@
 #Hi there 👋
-- 🔭 I’m currently working on PT Bimasakti Alterra (an Information Technologies Company) as Software Engineer
-- 🌱 I’m currently learning website development w/ vue.js
+- 🔭 I’m currently working on PT Teknologi Gagasan Nusantara (TENGGARA) as Software Engineer
+- 🌱 I’m currently doing development on website w/ vue.js, nuxt.js and tailwindcss
 - 👯 I’m looking to collaborate on mobile, website or database service projects
 - 🤔 I’m looking for help with clean code and clean architecture of development
-- 💬 Ask me about flutter development or database technologies
+- 💬 Ask me about flutter mobile development or website frontend development esp with nuxt.js
 - 📫 My another github account
   - @devayanidinda (1st personal github)
   - @devayanidindaaa (2nd personal github)
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: love Thai song and Thai drama
+- ⚡ Fun fact: love Thai song
 
 ---
 
